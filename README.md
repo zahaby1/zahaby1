@@ -5,12 +5,15 @@
 📍 Based in Egypt.  
 
 ---
-
 ## 🚀 Tech Stack
-- *Frontend:* Angular, HTML, CSS, TypeScript  
-- *Backend:* Node.js, Express.js  
-- *Database:* MongoDB  
-- *Tools & Others:* Git, GitHub, Postman, REST APIs  
+- **Frontend:**  
+  ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)  
+- **Backend:**  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+- **Database:**  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+- **Tools & Others:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
